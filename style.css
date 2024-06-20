@@ -1,7 +1,8 @@
 *{
     margin: 0;
     padding: 0;
-    visibility:none;
+/*     visibility:none; */
+    display:none;
 }
 /* blog-section code start here */
 .blog-section{
